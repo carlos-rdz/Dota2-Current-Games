@@ -100,19 +100,16 @@ function writeMatchInfo(matchArray){
     });
 
 
-
-
-
 }
-    
-    
+
+   
     
     
     // Our main function calls
 function Main(){
         
     getLiveGames();
-
+    
 }
 
 Main();
