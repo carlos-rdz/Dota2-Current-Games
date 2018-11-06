@@ -4,5 +4,6 @@ body {
 
 
 .scoreDisplay div{
-    outline: 1px solid black;
+    outline: 1px solid red;
+    border-radius: 10px;
 }
